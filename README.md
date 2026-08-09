@@ -213,3 +213,12 @@ python pipeline.py
 ```
 
 The script will ingest the raw CSV files, build the network graph, calculate PageRank values, scale the training features, output the performance metrics, and generate test predictions.
+
+Contact & Professional Links
+Live Interactive Application: https://arshkazi.github.io/arsh-core-v1/
+
+GitHub Organization Profile: https://github.com/arshkazi
+
+LinkedIn Professional Network: https://www.linkedin.com/in/kazi-mohammed-arsh-132a63213/
+
+Direct Email: arsh.lakers@gmail.com
